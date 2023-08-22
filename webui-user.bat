@@ -3,6 +3,6 @@
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS=--listen --xformers --enable-insecure-extension-access --gradio-queue --share
+set COMMANDLINE_ARGS=--listen --autolaunch --update-check --xformers --opt-sdp-attentio --enable-insecure-extension-access --update-check
 
 call webui.bat
