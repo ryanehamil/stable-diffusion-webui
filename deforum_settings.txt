@@ -37,7 +37,7 @@
         "45": "hacker in hood, hoodie, hood, --neg hat, beanie, redeyes, skull, hair, mask",
         "60": "hacker in hood, hoodie, hood, dark, sinister, neon, --neg beanie, redeyes, skull, hair, mask"
     },
-    "animation_prompts_positive": "",
+    "animation_prompts_positive": " <lora:Colored_Icons:0.6> coloredic0n",
     "animation_prompts_negative": "nsfw, nude, 2people,",
     "animation_mode": "2D",
     "max_frames": 80,
@@ -257,5 +257,5 @@
     "frame_interpolation_use_upscaled": false,
     "sd_model_name": "dreamshaper_8.safetensors",
     "sd_model_hash": "9d40847d",
-    "deforum_git_commit_id": "040da3d8"
+    "deforum_git_commit_id": "43158f9c"
 }
